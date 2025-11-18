@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https:/https://i.ibb.co.com/k6wpsRzC/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%">
+<p align="center">
+  <img src="https://i.ibb.co.com/k6wpsRzC/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
+</p>
+
 
 # 👋 Hey, I'm **Nazmul Hasan Nokib**  
 ### 🚀 MERN Stack Developer
