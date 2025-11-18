@@ -1,18 +1,18 @@
 <!-- Banner -->
-<img src="https://your-banner-image-url-here" alt="Banner" width="100%">
+<img src="https:/https://i.ibb.co.com/k6wpsRzC/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%">
 
-# 👋 Hey, I'm **Nokib**  
+# 👋 Hey, I'm **Nazmul Hasan Nokib**  
 ### 🚀 MERN Stack Developer
 
 ---
 
 ## 🧑‍💻 About Me
 I'm a passionate **MERN Stack Developer** who loves building modern, responsive, and efficient web applications.  
-I enjoy problem-solving, learning new technologies, and working on real-life projects like **StudyMate**.
+I enjoy problem-solving, learning new technologies, and working on real-life projects like **ZapShift**.
 
 ### 🔥 What I'm currently doing:
-- 🌱 Exploring **Next.js**  
-- 🚧 Working on a **modern learning platform — StudyMate**  
+- 🌱 Exploring **React.js**  
+- 🚧 Working on a **modern Shipment platform — ZapShift**  
 - 📚 Improving my backend skills with **Node.js & MongoDB**  
 - 💡 Learning UI/UX basics to make better interfaces  
 
@@ -35,6 +35,11 @@ I enjoy problem-solving, learning new technologies, and working on real-life pro
 
 ---
 
+### 📫 Contact Me
+📧 **Email:** nokibnokib1@gmail.com 
+
+---
+
 ## 📊 GitHub Stats
 
 <p>
@@ -48,8 +53,8 @@ I enjoy problem-solving, learning new technologies, and working on real-life pro
 
 ---
 
-## 📌 Pinned Repositories  
-(তোমাকে GitHub-এ manually pin করতে হবে, আমি নিচে 3টি project তৈরি করে দিচ্ছি)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nokib-web&label=Profile%20views&color=0e75b6&style=flat" alt="nokib-web" /> </p> 
+
 
 ---
 
