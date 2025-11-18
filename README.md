@@ -1,19 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nazmul Hasan Nokib</h1>
-<h3 align="center">A passionate mern stack developer from Bangladesh</h3>
+<!-- Banner -->
+<img src="https://your-banner-image-url-here" alt="Banner" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nokib-web&label=Profile%20views&color=0e75b6&style=flat" alt="nokib-web" /> </p>
+# 👋 Hey, I'm **Nokib**  
+### 🚀 MERN Stack Developer
 
-- 📫 How to reach me **nokibnokib1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1207" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+I'm a passionate **MERN Stack Developer** who loves building modern, responsive, and efficient web applications.  
+I enjoy problem-solving, learning new technologies, and working on real-life projects like **StudyMate**.
+
+### 🔥 What I'm currently doing:
+- 🌱 Exploring **Next.js**  
+- 🚧 Working on a **modern learning platform — StudyMate**  
+- 📚 Improving my backend skills with **Node.js & MongoDB**  
+- 💡 Learning UI/UX basics to make better interfaces  
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokib-web&show_icons=true&locale=en" alt="nokib-web" /></p>
+## 🔗 Social Links  
+<p>
+  <a href="mailto:nokibnokib1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://facebook.com"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nokib-web&" alt="nokib-web" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nokib-web&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nokib-web&theme=tokyonight" height="165"/>
+</p>
+
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokib-web&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Pinned Repositories  
+(তোমাকে GitHub-এ manually pin করতে হবে, আমি নিচে 3টি project তৈরি করে দিচ্ছি)
+
+---
+
+🔥 **Thanks for visiting my profile!** 🚀  
 
