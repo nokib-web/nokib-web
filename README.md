@@ -32,8 +32,8 @@ I enjoy problem-solving, learning new technologies, and working on real-life pro
 ## 🔗 Social Links  
 <p>
   <a href="mailto:nokibnokib1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://facebook.com"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://www.linkedin.com/in/nazmul-hasan-nokib-779216364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://facebook.com/NokibHasan.Nazmul"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
 </p>
 
 ---
