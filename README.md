@@ -4,19 +4,19 @@
 </p>
 
 
-# 👋 Hey, I'm **Nazmul Hasan Nokib**  
+# 👋 Assalamu-alaikum, I'm **Nazmul Hasan Nokib**  
 ### 🚀 MERN Stack Developer
 
 ---
 
 ## 🧑‍💻 About Me
 I'm a passionate **MERN Stack Developer** who loves building modern, responsive, and efficient web applications.  
-I enjoy problem-solving, learning new technologies, and working on real-life projects like **ZapShift**.
+I enjoy problem-solving, learning new technologies, and working on real-life projects like **StylDecor**.
 
 ### 🔥 What I'm currently doing:
-- 🌱 Exploring **React.js**  
+- 🌱 Exploring **React.js , Next,js, TypeScript, Redux**  
 - 🚧 Working on a **modern Shipment platform — ZapShift**  
-- 📚 Improving my backend skills with **Node.js & MongoDB**  
+- 📚 Improving my backend skills with **Node.js , Express.js, Python & MongoDB**  
 - 💡 Learning UI/UX basics to make better interfaces  
 
 ---
@@ -24,7 +24,7 @@ I enjoy problem-solving, learning new technologies, and working on real-life pro
 ## 🛠️ Skills & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,typescript,redux,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
 </p>
 
 ---
