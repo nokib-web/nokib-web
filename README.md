@@ -131,9 +131,11 @@ A feature-rich, modern e-commerce platform with seamless user experience
 
 ---
 
-### 🛋️ StylDecor - Furniture E-commerce Platform
+### 🛋️ StyleDecor - Furniture E-commerce Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nokib-web/StylDecor)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://style-decor-client-two.vercel.app/)
+[![Stars](https://img.shields.io/github/stars/nokib-web/NexCart?style=for-the-badge&color=yellow)](https://github.com/nokib-web/StyleDecor-Client/stargazers)
 
 Elegant e-commerce solution for furniture and home decor
 
@@ -257,7 +259,7 @@ Others       ██░░░░░░░░░░░░░░░░░░░   8
 
 💼 **LinkedIn:** [Nazmul Hasan Nokib](https://www.linkedin.com/in/nazmulhasan-nokib/)
 
-🌍 **Portfolio:** Coming Soon!
+🌍 **Portfolio:** [Portfolio](https://nokib.vercel.app/)
 
 <br/>
 
@@ -281,9 +283,9 @@ feel free to reach out!
 
 <div align="center">
 
-If you like my work and want to support me, consider buying me a coffee! ☕
+If you like my work and want to support me. Visit My Portfolio ☕
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nokib)
+🌍 **Portfolio:** [Portfolio](https://nokib.vercel.app/)
 
 </div>
 
