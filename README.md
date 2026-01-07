@@ -45,21 +45,13 @@ I enjoy problem-solving, learning new technologies, and working on real-life pro
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nokib-web&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nokib-web&theme=tokyonight" height="165"/>
-</p>
-
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokib-web&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nokib-web&label=Profile%20views&color=0e75b6&style=flat" alt="nokib-web" /> </p> 
-
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nokib-web&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokib-web&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nokib-web&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</div>
 
 🔥 **Thanks for visiting my profile!** 🚀  
 
